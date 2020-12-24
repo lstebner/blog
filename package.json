@@ -1,8 +1,8 @@
 {
-  "name": "lukestebner-log",
+  "name": "lukestebner-blog",
   "version": "1.0.0",
   "private": true,
-  "description": "lukestebner log",
+  "description": "lukestebner blog",
   "author": "Luke Stebner",
   "keywords": [
     "gatsby"
