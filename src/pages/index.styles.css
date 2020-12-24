@@ -1,0 +1,27 @@
+body {
+  font-weight: normal;
+  font-size: 18px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+  margin: 8px 0;
+}
+
+p {
+  font-size: 1em;
+}
+
+a,
+a:visited {
+  color: #0074d9;
+}
+
+a:hover {
+  color: #7fdbff;
+}
